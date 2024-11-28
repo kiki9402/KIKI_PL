@@ -1,8 +1,8 @@
 # KIKI_PL
-kikiserver plugin pack
+kikiserver plugin
 
 # kikiserver(MineCraft)
-## server Plugin PACK
+## server Plugin
 ### [Discord]()
 
 # 명령어, 기능
